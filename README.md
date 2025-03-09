@@ -9,7 +9,9 @@ I love exploring new technologies and building innovative solutions.
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Narr-21&langs_count=5&layout=compact&theme=dark&hide=typescript)
 
-
+## Pragramming Skills
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 
 
