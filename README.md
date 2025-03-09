@@ -16,4 +16,4 @@ I love exploring new technologies and building innovative solutions.
 
 ## 📫 Contact Me
 📧 Email: agastyadhanar@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/dhanaragastya](htttps://www.linkedin.com/in/dhanaragastya)
+🔗 LinkedIn: [linkedin.com/in/dhanaragastya](https://www.linkedin.com/in/dhanaragastya)
