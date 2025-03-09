@@ -1,6 +1,6 @@
 # Welcome to My Profile! 👋
 
-I’m **Narr**, a software developer and open-source enthusiast.  
+I’m **Narr**  
 I love exploring new technologies and building innovative solutions.
 
 ## 📊 GitHub Stats
@@ -14,5 +14,5 @@ I love exploring new technologies and building innovative solutions.
 - 🎮 **[Project 2]** - [Short description]
 
 ## 📫 Contact Me
-📧 Email: your.email@example.com  
-🔗 LinkedIn: [linkedin.com/in/NamaKamu](https://linkedin.com/in/NamaKamu)
+📧 Email: agastyadhanar@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/dhanaragastya](www.linkedin.com/in/dhanaragastya)
