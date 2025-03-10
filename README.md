@@ -16,6 +16,7 @@ I love exploring new technologies and building innovative solutions.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=agastyaa-nar&theme=dark)](https://git.io/streak-stats)
 
 
 
