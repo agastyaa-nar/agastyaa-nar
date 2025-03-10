@@ -1,4 +1,4 @@
-=# Welcome to My Profile! 👋
+## Welcome to My Profile! 👋
 
 I’m **Narr**  
 I love exploring new technologies and building innovative solutions.
