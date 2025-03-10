@@ -1,4 +1,4 @@
-# Welcome to My Profile! 👋
+=# Welcome to My Profile! 👋
 
 I’m **Narr**  
 I love exploring new technologies and building innovative solutions.
@@ -7,7 +7,7 @@ I love exploring new technologies and building innovative solutions.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=agastyaa-nar&show_icons=true&theme=gruvbox)
 
 ## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agastyaa-nar&langs_count=5&layout=compact&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agastyaa-nar&langs_count=5&layout=compact&theme=gruvbox&hide=typescript)
 
 ## Pragramming Skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
