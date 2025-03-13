@@ -1,5 +1,6 @@
 ## Welcome to My Profile! 👋  
-I’m **Narr**  
+I’m **Narr , Undergraduate Student @ ITS** | Learning to build full-stack apps from scratch | Passionate about clean code & cool projects
+
 
 ## GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=agastyaa-nar&show_icons=true&theme=tokyonight)  
