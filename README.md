@@ -4,10 +4,10 @@ I’m **Narr**
 
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=agastyaa-nar&show_icons=true&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=agastyaa-nar&show_icons=true&theme=tokyonight)
 
 ## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agastyaa-nar&langs_count=10&layout=compact&theme=gruvbox&hide=typescript)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agastyaa-nar&langs_count=10&layout=compact&theme=tokyonight&hide=typescript)
 
 ## Programming Skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
