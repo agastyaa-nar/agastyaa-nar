@@ -1,4 +1,4 @@
-## Welcome to My Profile! 👋  
+## About Me  
 I’m **Narr , Undergraduate Student @ ITS** | Learning to build full-stack apps from scratch | Passionate about clean code & cool projects
 
 
