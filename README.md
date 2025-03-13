@@ -1,5 +1,6 @@
 ## About Me  
-I’m **Narr , Undergraduate Student @ ITS** | Learning to build full-stack apps from scratch | Passionate about clean code & cool projects
+⭐ I’m **Narr, Undergraduate Student @ ITS** | Learning to build full-stack apps from scratch | Passionate about clean code & cool projects 
+
 
 
 ## GitHub Stats  
