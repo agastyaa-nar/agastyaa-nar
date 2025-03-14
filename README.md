@@ -3,7 +3,7 @@
 
 
 
-## GitHub Stats  
+## Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=agastyaa-nar&show_icons=true&theme=tokyonight)
 
 ![Codewars](https://www.codewars.com/users/agastyaa-nar/badges/small)
