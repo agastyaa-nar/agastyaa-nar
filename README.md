@@ -14,7 +14,7 @@
 ## Most Used Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agastyaa-nar&langs_count=10&layout=compact&theme=tokyonight&hide=typescript)  
 
-## Skills & Technologies  
+## Language adn Tools 
 
 **Programming Languages**  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)  
