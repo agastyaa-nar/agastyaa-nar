@@ -1,5 +1,5 @@
 ## About Me  
-⭐ I’m **Narr, Undergraduate Math Student @ ITS** | Learning to build full-stack apps from scratch | Passionate about clean code & cool projects 
+⭐ I’m **Dhanar, Undergraduate Math Student @ ITS** | Learning to build full-stack apps from scratch | Passionate about clean code & cool projects 
 
 
 
