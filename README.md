@@ -12,7 +12,7 @@
 
 
 ## Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agastyaa-nar&langs_count=10&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agastyaa-nar&langs_count=12&layout=compact&theme=tokyonight)  
 
 ## Tech Stack
  
